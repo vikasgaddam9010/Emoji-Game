@@ -1,0 +1,14 @@
+/* Write your code here. */
+.ul-container {
+  width: 100%;
+  padding: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  height: 100%;
+  background-color: #9796f0;
+  list-style-type: none;
+  flex-wrap: wrap;
+  margin: auto;
+}
